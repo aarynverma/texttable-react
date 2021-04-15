@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/texttable-react/static/css/main.44ff1c38.chunk.css",
+    "main.js": "/texttable-react/static/js/main.08bfb28b.chunk.js",
+    "main.js.map": "/texttable-react/static/js/main.08bfb28b.chunk.js.map",
+    "runtime-main.js": "/texttable-react/static/js/runtime-main.45233b1f.js",
+    "runtime-main.js.map": "/texttable-react/static/js/runtime-main.45233b1f.js.map",
+    "static/js/2.62e20427.chunk.js": "/texttable-react/static/js/2.62e20427.chunk.js",
+    "static/js/2.62e20427.chunk.js.map": "/texttable-react/static/js/2.62e20427.chunk.js.map",
+    "static/js/3.3e202f2e.chunk.js": "/texttable-react/static/js/3.3e202f2e.chunk.js",
+    "static/js/3.3e202f2e.chunk.js.map": "/texttable-react/static/js/3.3e202f2e.chunk.js.map",
+    "index.html": "/texttable-react/index.html",
+    "static/css/main.44ff1c38.chunk.css.map": "/texttable-react/static/css/main.44ff1c38.chunk.css.map",
+    "static/js/2.62e20427.chunk.js.LICENSE.txt": "/texttable-react/static/js/2.62e20427.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45233b1f.js",
+    "static/js/2.62e20427.chunk.js",
+    "static/css/main.44ff1c38.chunk.css",
+    "static/js/main.08bfb28b.chunk.js"
+  ]
+}
