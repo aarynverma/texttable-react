@@ -20,7 +20,7 @@ function FileUpload() {
   return (
     <div id="upload-box">
       <h2 className="heading">
-      Tool to display text into a table
+      Tool to display text into a table format
       </h2>
       <input type="file" onChange={handleUpload} className="field" />
 
